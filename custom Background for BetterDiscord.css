@@ -1,9 +1,9 @@
-//META{"name":"Name","description":"Example Text","author":"LeoX","version":"1"}*//
+//META{"Sunrise in mountain":"mountain temple shot","21/12/2017":"stunning","author":"Manfred","version":"1"}*//
 
 /* Background */
 
 .app {
-    background-image: url("https://example.com/exampletext.jpg") !important;
+    background-image: url("https://photos.google.com/u/1/photo/AF1QipN-K9l8xmX41mkljpCXjUhYWFIaBMCZbaBXm7lc.jpg") !important;
     background-size: 1280px 720px;
     background-repeat: no-repeat;
 }
