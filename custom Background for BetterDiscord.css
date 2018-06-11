@@ -1,4 +1,4 @@
-//META{"Sunrise in mountain":"mountain temple shot","21/12/2017":"stunning","author":"Manfred","version":"1"}*//
+//META{"name":"sunrise mountain temple shot","21/12/2017":"stunning","author":"Manfred","version":"1"}*//
 
 /* Background */
 
@@ -9,7 +9,7 @@
 }
 .callout-backdrop {
     opacity:0.9 !important;
-    background: urlhttps://example.com/exampletext.jpg);
+    background: urlhttps://i.imgur.com/c3W61fW.jpg);
     background-size: 1280px 720px;
     background-repeat: no-repeat;
 }
